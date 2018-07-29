@@ -20,4 +20,6 @@ def my_multiply_method(number_one, number_two):
     return number_one * number_two
 
 result = my_multiply_method(5, 3)
-print(result)
+# my_print_method(result)
+
+my_print_method(my_multiply_method(5,3))
