@@ -15,4 +15,4 @@ winning_numbers = {1, 3, 5, 7, 9, 11}
 
 # print(your_lottery_numbers.intersection(winning_numbers))
 # print(your_lottery_numbers.union(winning_numbers))
-print(your_lottery_numbers.difference(winning_numbers))
+# print(your_lottery_numbers.difference(winning_numbers))
