@@ -14,4 +14,4 @@ single_quotes = "strings can have single quotes"
 def my_print_method(my_parameter):
     print(my_parameter)
 
-my_print_method()
+my_print_method("Hello World")
