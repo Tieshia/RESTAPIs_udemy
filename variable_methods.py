@@ -14,4 +14,10 @@ single_quotes = "strings can have single quotes"
 def my_print_method(my_parameter):
     print(my_parameter)
 
-my_print_method("Hello World")
+# my_print_method("Hello World")
+
+def my_multiply_method(number_one, number_two):
+    return number_one * number_two
+
+result = my_multiply_method(5, 3)
+print(result)
